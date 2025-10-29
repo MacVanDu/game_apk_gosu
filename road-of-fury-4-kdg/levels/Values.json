@@ -1,0 +1,2777 @@
+{
+    "player": {
+        "name": "v1",
+        "money": 750,
+        "hpRecovery": 0.0,
+        "Damage_Coeff": 0.5,
+        "Reward_Coeff": 0.5,
+        "HP_Coeff": 0.2,
+        "zones": [
+            {
+                "id": 1,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 10000,
+                "speed": 100,
+                "dustBack": "dust2",
+                "dustFront": "dust1"
+            },
+            {
+                "id": 2,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 21111,
+                "speed": 100,
+                "dustBack": "dust2_night",
+                "dustFront": "dust1_night"
+            },
+            {
+                "id": 3,
+                "unlockCar": 2,
+                "unlockNextZone": 0,
+                "setting": 11010,
+                "speed": 100,
+                "dustBack": "dust2",
+                "dustFront": "dust1"
+            },
+            {
+                "id": 4,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 12020,
+                "speed": 100,
+                "dustBack": "dust2",
+                "dustFront": "dust1"
+            },
+            {
+                "id": 5,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 22112,
+                "speed": 100,
+                "dustBack": "dust2_night",
+                "dustFront": "dust1_night"
+            },
+            {
+                "id": 6,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 30123,
+                "speed": 15,
+                "dustBack": "dust2_1",
+                "dustFront": "dust1_1"
+            },
+            {
+                "id": 7,
+                "unlockCar": 1,
+                "unlockNextZone": 0,
+                "setting": 50101,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 8,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 23434,
+                "speed": 100,
+                "dustBack": "dust2_night",
+                "dustFront": "dust1_night"
+            },
+            {
+                "id": 9,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 42123,
+                "speed": 15,
+                "dustBack": "",
+                "dustFront": ""
+            },
+            {
+                "id": 10,
+                "unlockCar": 100,
+                "unlockNextZone": 0,
+                "setting": 40100,
+                "speed": 15,
+                "dustBack": "",
+                "dustFront": ""
+            },
+            {
+                "id": 11,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 42121,
+                "speed": 15,
+                "dustBack": "",
+                "dustFront": ""
+            },
+            {
+                "id": 12,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 52102,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 13,
+                "unlockCar": 4,
+                "unlockNextZone": 0,
+                "setting": 30123,
+                "speed": 50,
+                "dustBack": "dust2_1",
+                "dustFront": "dust1_1",
+                "unlockCarType": 1
+            },
+            {
+                "id": 14,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 54321,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 15,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 55310,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 16,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 56763,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 17,
+                "unlockCar": 3,
+                "unlockNextZone": 0,
+                "setting": 25656,
+                "speed": 100,
+                "dustBack": "dust2_night",
+                "dustFront": "dust1_night",
+                "unlockCarType": 0
+            },
+            {
+                "id": 18,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 57601,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 19,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 26655,
+                "speed": 100,
+                "dustBack": "dust2_night",
+                "dustFront": "dust1_night"
+            },
+            {
+                "id": 20,
+                "unlockCar": 200,
+                "unlockNextZone": 0,
+                "setting": 58989,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 21,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 59780,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3"
+            },
+            {
+                "id": 22,
+                "unlockCar": 5,
+                "unlockNextZone": 0,
+                "setting": 57898,
+                "speed": 100,
+                "dustBack": "dust2_3",
+                "dustFront": "dust1_3",
+                "unlockCarType": 1
+            },
+            {
+                "id": 23,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 60000,
+                "speed": 100,
+                "dustBack": "",
+                "dustFront": ""
+            },
+            {
+                "id": 24,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 61001,
+                "speed": 100,
+                "dustBack": "",
+                "dustFront": ""
+            },
+            {
+                "id": 25,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 70100,
+                "speed": 100,
+                "dustBack": "dust2_7",
+                "dustFront": "dust1_7"
+            },
+            {
+                "id": 26,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 80102,
+                "speed": 100,
+                "dustBack": "dust2_8",
+                "dustFront": "dust1_8"
+            },
+            {
+                "id": 27,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 74031,
+                "speed": 100,
+                "dustBack": "dust2_7",
+                "dustFront": "dust1_7"
+            },
+            {
+                "id": 28,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 81201,
+                "speed": 100,
+                "dustBack": "dust2_8",
+                "dustFront": "dust1_8"
+            },
+            {
+                "id": 29,
+                "unlockCar": 0,
+                "unlockNextZone": 0,
+                "setting": 73212,
+                "speed": 100,
+                "dustBack": "dust2_7",
+                "dustFront": "dust1_7"
+            },
+            {
+                "id": 30,
+                "unlockCar": 300,
+                "unlockNextZone": 0,
+                "setting": 74132,
+                "speed": 100,
+                "dustBack": "dust2_7",
+                "dustFront": "dust1_7"
+            }
+        ]
+    },
+    "cars": [
+        {
+            "name": "car",
+            "offsetXBody": -12,
+            "offsetYBody": -43,
+            "change_direction_time": 9.8,
+            "targetBonus": [
+                340,
+                430,
+                520,
+                665,
+                810,
+                920,
+                1050
+            ],
+            "targetPrice": [
+                500,
+                1120,
+                2400,
+                5400,
+                12150,
+                24000
+            ]
+        },
+        {
+            "name": "car1",
+            "offsetXBody": -14,
+            "offsetYBody": -48,
+            "change_direction_time": 1,
+            "targetBonus": [
+                350,
+                450,
+                570,
+                715,
+                900,
+                1000,
+                1155
+            ],
+            "targetPrice": [
+                650,
+                1330,
+                2800,
+                6000,
+                13500,
+                27000
+            ]
+        },
+        {
+            "name": "car2",
+            "offsetXBody": -21,
+            "offsetYBody": -81,
+            "change_direction_time": 1,
+            "targetBonus": [
+                400,
+                500,
+                650,
+                810,
+                990,
+                1160,
+                1400
+            ],
+            "targetPrice": [
+                700,
+                1400,
+                3000,
+                6750,
+                14850,
+                29400
+            ]
+        },
+        {
+            "name": "car3",
+            "offsetXBody": -29,
+            "offsetYBody": -89,
+            "change_direction_time": 12.2,
+            "targetBonus": [
+                450,
+                580,
+                750,
+                905,
+                1125,
+                1280,
+                1540
+            ],
+            "targetPrice": [
+                800,
+                1680,
+                3600,
+                8100,
+                18000,
+                36000
+            ]
+        },
+        {
+            "name": "car4",
+            "offsetXBody": 13,
+            "offsetYBody": -95,
+            "change_direction_time": 1,
+            "targetBonus": [
+                600,
+                800,
+                1100,
+                1330,
+                1575,
+                1840,
+                2100
+            ],
+            "targetPrice": [
+                1000,
+                2100,
+                4400,
+                9600,
+                21600,
+                42000
+            ]
+        },
+        {
+            "name": "car5",
+            "offsetXBody": 17,
+            "offsetYBody": -110,
+            "change_direction_time": 1,
+            "targetBonus": [
+                700,
+                900,
+                1200,
+                1520,
+                1890,
+                2240,
+                2520
+            ],
+            "targetPrice": [
+                1100,
+                2310,
+                4800,
+                10800,
+                24300,
+                48000
+            ]
+        },
+        {
+            "name": "drone",
+            "offsetXBody": 6,
+            "offsetYBody": 19.70,
+            "change_direction_time": 5,
+            "targetBonus": [
+                150,
+                160,
+                170,
+                180,
+                190,
+                200,
+                210
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "cars_active_devices": [
+        {
+            "name": "car",
+            "offsetXBody": 25,
+            "offsetYBody": -25
+        },
+        {
+            "name": "car1",
+            "offsetXBody": 25,
+            "offsetYBody": -25
+        },
+        {
+            "name": "car2",
+            "offsetXBody": 35,
+            "offsetYBody": -45
+        },
+        {
+            "name": "car3",
+            "offsetXBody": 50,
+            "offsetYBody": -50
+        },
+        {
+            "name": "car4",
+            "offsetXBody": 55,
+            "offsetYBody": -50
+        },
+        {
+            "name": "car5",
+            "offsetXBody": 70,
+            "offsetYBody": -70
+        },
+        {
+            "name": "drone",
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        }
+    ],
+    "cars_passive_devices": [
+        {
+            "name": "car",
+            "offsetXBody": -37,
+            "offsetYBody": -40
+        },
+        {
+            "name": "car1",
+            "offsetXBody": -37,
+            "offsetYBody": -40
+        },
+        {
+            "name": "car2",
+            "offsetXBody": -45,
+            "offsetYBody": -55
+        },
+        {
+            "name": "car3",
+            "offsetXBody": -60,
+            "offsetYBody": -55
+        },
+        {
+            "name": "car4",
+            "offsetXBody": -60,
+            "offsetYBody": -75
+        },
+        {
+            "name": "car5",
+            "offsetXBody": -70,
+            "offsetYBody": -50
+        },
+        {
+            "name": "drone",
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        }
+    ],
+    "devices": [
+        {
+            "designName": "Nullifier",
+            "name": "DeviceEnergyShield",
+            "durationTotal": 600000,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                40,
+                37,
+                34,
+                31,
+                0.1
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "EMI",
+            "name": "emp_device",
+            "durationTotal": 5,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                40,
+                37,
+                34,
+                31,
+                28
+            ],
+            "targetPrice": [
+                675,
+                1300,
+                4000,
+                9800
+            ]
+        },
+        {
+            "designName": "TimeStopper",
+            "name": "time_compressor_device",
+            "durationTotal": 4,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                20,
+                18,
+                16,
+                14,
+                12
+            ],
+            "targetPrice": [
+                750,
+                1400,
+                4000,
+                10500
+            ]
+        },
+        {
+            "designName": "Airstrike",
+            "name": "air_strike_device",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                45,
+                35,
+                27,
+                20,
+                15
+            ],
+            "targetPrice": [
+                600,
+                1200,
+                3600,
+                9100
+            ]
+        },
+        {
+            "designName": "Harpoon",
+            "name": "harpoon",
+            "durationTotal": 3,
+            "offsetXBody": -15,
+            "offsetYBody": 30,
+            "offsetX": -15,
+            "offsetY": 20,
+            "targetBonus": [
+                35,
+                30,
+                27,
+                24,
+                20
+            ],
+            "targetPrice": [
+                1050,
+                1700,
+                5200,
+                12950
+            ]
+        },
+        {
+            "designName": "Battle Drone",
+            "name": "drone_station",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 50,
+            "offsetY": -50,
+            "targetBonus": [
+                35,
+                30,
+                27,
+                24,
+                20
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "MRLS",
+            "name": "MRLS_device",
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                40,
+                37,
+                34,
+                31,
+                1
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Particle Cannon",
+            "name": "particle_cannon_device",
+            "durationTotal": 1000,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                50,
+                45,
+                42,
+                39,
+                1
+            ],
+            "targetPrice": [
+                1275,
+                2400,
+                6000,
+                14000
+            ]
+        },
+        {
+            "designName": "Flamethrower",
+            "name": "flamethrower",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                40,
+                37,
+                34,
+                31,
+                28
+            ],
+            "targetPrice": [
+                900,
+                1600,
+                4400,
+                11900
+            ]
+        },
+        {
+            "designName": "for proton bullet",
+            "name": "tesla_proton",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                0.33
+            ],
+            "targetPrice": [
+                0
+            ]
+        }
+    ],
+    "passive_devices": [
+        {
+            "designName": "Health Pad",
+            "name": "repair_drone_device",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                9,
+                8,
+                7,
+                6,
+                5
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Tesla Coil",
+            "name": "tesla_coil",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": -35,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                7,
+                6,
+                5,
+                4,
+                3
+            ],
+            "targetPrice": [
+                900,
+                1600,
+                4400,
+                11900
+            ]
+        },
+        {
+            "designName": "AR Turret",
+            "name": "ar_turret",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": -3,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "targetPrice": [
+                600,
+                1200,
+                3600,
+                9100
+            ]
+        },
+        {
+            "designName": "Homing Missile",
+            "name": "homming_turret",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                5,
+                4,
+                3,
+                2,
+                0.1
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Shield",
+            "name": "passive_shield",
+            "chargeTotal": 20,
+            "durationTotal": 1,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                200,
+                240,
+                300,
+                380,
+                450
+            ],
+            "targetPrice": [
+                750,
+                1400,
+                4000,
+                10500
+            ]
+        },
+        {
+            "designName": "Gravity Gear",
+            "name": "gravity_gear",
+            "durationTotal": 0.5,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "targetPrice": [
+                525,
+                1000,
+                2800,
+                7000
+            ]
+        },
+        {
+            "designName": "Oil Dispenser",
+            "name": "oil_despencer",
+            "durationTotal": 5,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                20,
+                25,
+                32,
+                40,
+                50
+            ],
+            "targetPrice": [
+                675,
+                1300,
+                4000,
+                9800
+            ]
+        },
+        {
+            "designName": "Nemesis Kit",
+            "name": "nemesis_missile",
+            "chargeTotal": 100,
+            "durationTotal": 0.001,
+            "offsetXBody": 7,
+            "offsetYBody": 10,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Emergency Repair",
+            "name": "emergency_repair",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                45,
+                50,
+                60,
+                80,
+                100
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Energy Pad",
+            "name": "energy_pad",
+            "durationTotal": 0,
+            "offsetXBody": 0,
+            "offsetYBody": 10,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                20,
+                18,
+                17,
+                14,
+                10
+            ],
+            "targetPrice": [
+                1200,
+                2000,
+                5000,
+                12600
+            ]
+        }
+    ],
+    "enemy_devices": [
+        {
+            "parentName": "BikersTruck",
+            "name": "bike1_go",
+            "durationTotal": 0.001,
+            "offsetXBody": -100,
+            "offsetYBody": -5,
+            "targetBonus": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "targetPrice": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "parentName": "FlyingBus",
+            "name": "jetpack_gunner",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "targetPrice": [
+                1,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "parentName": "Boss100",
+            "name": "quadrocopterBoss",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                3
+            ],
+            "targetPrice": [
+                3
+            ]
+        },
+        {
+            "parentName": "Healer",
+            "name": "healer_device",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                5
+            ],
+            "targetPrice": [
+                10
+            ]
+        },
+        {
+            "parentName": "Boss300",
+            "name": "bike3_go",
+            "durationTotal": 0.001,
+            "offsetXBody": -250,
+            "offsetYBody": -5,
+            "targetBonus": [
+                7
+            ],
+            "targetPrice": [
+                1
+            ]
+        },
+        {
+            "parentName": "BikersTruckUp",
+            "name": "bike3_go",
+            "durationTotal": 0.001,
+            "offsetXBody": -100,
+            "offsetYBody": -5,
+            "targetBonus": [
+                5
+            ],
+            "targetPrice": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "parentName": "Boss300",
+            "name": "wardrone",
+            "durationTotal": 0.001,
+            "offsetXBody": -250,
+            "offsetYBody": -5,
+            "targetBonus": [
+                17
+            ],
+            "targetPrice": [
+                1
+            ]
+        },
+        {
+            "parentName": "FlyingBusUp",
+            "name": "gyrocopter",
+            "durationTotal": 0.001,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "targetBonus": [
+                6
+            ],
+            "targetPrice": [
+                1
+            ]
+        }
+    ],
+    "hero_weapons": [
+        {
+            "name": "minigun_shot",
+            "cooldown": 0.075,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 1.5,
+            "rangeDamage": -1,
+            "speedRotate": 90,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                9,
+                11,
+                13,
+                16,
+                19
+            ],
+            "targetPrice": [
+                600,
+                1500,
+                3500,
+                8000
+            ]
+        },
+        {
+            "name": "kord_shot_ray",
+            "cooldown": 0.001,
+            "clipSize": 23,
+            "pause": 0,
+            "rangeDamage": -1,
+            "rangeAngle": 0.5,
+            "speedRotate": 120,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -5,
+            "offsetY": -7,
+            "targetBonus": [
+                17,
+                20,
+                25,
+                30,
+                3005
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "plasma_shot",
+            "cooldown": 0.00001,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 2,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 750,
+            "offsetXBody": 0,
+            "offsetYBody": -5,
+            "offsetX": 0,
+            "offsetY": -3,
+            "targetBonus": [
+                14,
+                17,
+                20,
+                24,
+                28
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "homing_missile",
+            "hp": 10,
+            "cooldown": 0.01,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 50,
+            "speedRotate": 250,
+            "speedFly": 600,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                70,
+                80,
+                90,
+                100,
+                110
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "rocket1",
+            "hp": 4,
+            "cooldown": 0.8,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 120,
+            "speedRotate": 100,
+            "speedFly": 620,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                80,
+                95,
+                115,
+                140,
+                150
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "laser_ray",
+            "cooldown": 0.06,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "firstPause": 3,
+            "speedRotate": 120,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                5,
+                7,
+                9,
+                11,
+                13
+            ],
+            "targetPrice": [
+                800,
+                1800,
+                4500,
+                10400
+            ]
+        },
+        {
+            "name": "air_strike_missile",
+            "hp": 0.5,
+            "cooldown": 0.1,
+            "clipSize": 10,
+            "pause": 0,
+            "rangeDamage": 75,
+            "rangeAngle": 0,
+            "speedRotate": 205,
+            "speedFly": 750,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                300
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "name": "pulsegun_bullet",
+            "cooldown": 0.001,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 75,
+            "speedRotate": 60,
+            "speedFly": 300,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 5,
+            "offsetY": 0,
+            "targetBonus": [
+                6,
+                9,
+                12,
+                15,
+                18
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "saw1",
+            "hp": 3,
+            "cooldown": 0.001,
+            "clipSize": 3,
+            "pause":0,
+            "rangeDamage": -1,
+            "rangeAngle": 1,
+            "firstPause": 2,
+            "speedRotate": 50,
+            "speedFly": 800,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -10,
+            "targetBonus": [
+                45,
+                50,
+                58,
+                70,
+                85
+            ],
+            "targetPrice": [
+                900,
+                1950,
+                5000,
+                11200
+            ]
+        },
+        {
+            "name": "mortar_bullet",
+            "hp": 3,
+            "cooldown": 0.001,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 150,
+            "speedRotate": 100,
+            "speedFly": 950,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                150,
+                165,
+                180,
+                200,
+                220
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "proton_bullet",
+            "cooldown": 0,
+            "hp": 5,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 2,
+            "rangeDamage": 180,
+            "speedRotate": 100,
+            "speedFly": 500,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                130,
+                150,
+                170,
+                190,
+                211
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "gauss_shot_ray",
+            "cooldown": 0,
+            "clipSize": 1,
+            "pauseAnim": 3.65,
+            "pause": 4,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 100,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": -4,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                550,
+                600,
+                650,
+                700,
+                750
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "shotgun_bullet",
+            "cooldown": 0.016,
+            "clipSize": 7,
+            "pause": 0.7,
+            "rangeAngle": 8,
+            "rangeDamage": -1,
+            "speedRotate": 100,
+            "speedFly": 1400,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 15,
+            "offsetY": 0,
+            "targetBonus": [
+                20,
+                21,
+                23,
+                26,
+                30
+            ],
+            "targetPrice": [
+                1200,
+                2400,
+                5500,
+                13600
+            ]
+        },
+        {
+            "name": "acid_shot",
+            "cooldown": 1,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 80,
+            "firstPause": 3,
+            "speedRotate": 80,
+            "speedFly": 800,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 20,
+            "offsetY": 0,
+            "targetBonus": [
+                70,
+                80,
+                95,
+                115,
+                135
+            ],
+            "targetPrice": [
+                1000,
+                2100,
+                5000,
+                12000
+            ]
+        },
+        {
+            "name": "blunderbuss_bullet",
+            "cooldown": 0,
+            "clipSize": 5,
+            "pause": 1,
+            "rangeAngle": 45,
+            "rangeDamage": -1,
+            "speedRotate": 100,
+            "speedFly": 1010,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -15,
+            "targetBonus": [
+                70,
+                75,
+                80,
+                90,
+                100
+            ],
+            "targetPrice": [
+                1600,
+                3000,
+                6250,
+                14400
+            ]
+        },
+        {
+            "name": "shrapnel_grenade",
+            "hp": 3,
+            "cooldown": 1.8,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 100,
+            "speedRotate": 100,
+            "speedFly": 850,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -25,
+            "targetBonus": [
+                120,
+                130,
+                145,
+                160,
+                180
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "shrapnel_bullet",
+            "hp": 1,
+            "cooldown": 0,
+            "clipSize": 4,
+            "pause": 0,
+            "rangeAngle": 90,
+            "rangeDamage": 60,
+            "speedRotate": 100,
+            "speedFly": 600,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                35,
+                40,
+                45,
+                50,
+                55
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Harpoon",
+            "name": "boss_saw",
+            "cooldown": 0.1,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 40,
+            "speedRotate": 0,
+            "speedFly": 0,
+            "offsetXBody": 140,
+            "offsetYBody": -40,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                75
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "name": "minigun_shot_drone",
+            "cooldown": 0.1,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 4,
+            "rangeDamage": -1,
+            "speedRotate": 15,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 8,
+            "offsetY": 0,
+            "targetBonus": [
+                12
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "name": "mrls_missile",
+            "hp": 0.9,
+            "cooldown": 0.15,
+            "clipSize": 20,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 50,
+            "speedRotate": 205,
+            "speedFly": 0,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 30,
+            "offsetY": -40,
+            "targetBonus": [
+                100
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "designName": "Particle Cannon Ray",
+            "name": "particular_ray2",
+            "cooldown": 0.1,
+            "clipSize": 6,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 120,
+            "speedFly": 500,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 15,
+            "offsetY": 0,
+            "targetBonus": [
+                10
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "name": "flamethrower_cloud1",
+            "cooldown": 0.1,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 350,
+            "speedRotate": 0,
+            "speedFly": 900,
+            "offsetXBody": 130,
+            "offsetYBody": -110,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                500
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "designName": "Tesla Lightning",
+            "name": "tesla_shot",
+            "cooldown": 0.1,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 600,
+            "speedRotate": 120,
+            "speedFly": 610,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": -50,
+            "targetBonus": [
+                120
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "name": "ar_ray",
+            "cooldown": 0.04,
+            "clipSize": 25,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 2000,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                2.5
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "name": "nemesis_missile",
+            "hp": 2000,
+            "cooldown": 2.5,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 500,
+            "speedRotate": 0,
+            "speedFly": 0,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                2000,
+                2200,
+                2600,
+                3000,
+                3500
+            ],
+            "targetPrice": [
+                400,
+                500,
+                750,
+                1500,
+                1800,
+                2700
+            ]
+        },
+        {
+            "name": "acid_shot2",
+            "hp": 1,
+            "cooldown": 0.15,
+            "clipSize": 5,
+            "pause": 0,
+            "rangeAngle": 10,
+            "rangeDamage": -1,
+            "speedRotate": 100,
+            "speedFly": 650,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Proton Lightning",
+            "name": "proton_hit1",
+            "cooldown": 0.067,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 400,
+            "speedRotate": 120,
+            "speedFly": 600,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                10,
+                15,
+                20,
+                25,
+                30
+            ],
+            "targetPrice": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "designName": "Health Pad",
+            "name": "health_bullet",
+            "cooldown": 13,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 200,
+            "speedRotate": 120,
+            "speedFly": 900,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                -100
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "designName": "Fired Enemy's",
+            "name": "fire",
+            "cooldown": 0.1,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 150,
+            "speedRotate": 0,
+            "speedFly": 900,
+            "offsetXBody": 130,
+            "offsetYBody": -110,
+            "offsetX": 0,
+            "offsetY": 0,
+            "targetBonus": [
+                15
+            ],
+            "targetPrice": [
+                0
+            ]
+        },
+        {
+            "designName": "Harpoon arrow",
+            "name": "harpoon_arrow",
+            "targetBonus": [
+                400
+            ],
+            "cooldown": 0,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 0,
+            "speedRotate": 0,
+            "speedFly": 1300,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0
+        }
+    ],
+    "enemy_weapons": [
+        {
+            "parentName": "bike1_go",
+            "name": "bullet",
+            "damage": 5,
+            "cooldown": 0.01,
+            "clipSize": 5,
+            "pause": 3,
+            "pauseAnim": 2.7834,
+            "firstPause": 3,
+            "rangeAngle": 2,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1000,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -38,
+            "offsetY": -50
+        },
+        {
+            "parentName": "bike2_go",
+            "name": "granade1",
+            "damage": 150,
+            "hp": 20,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 1,
+            "pauseAnim": 3.9166,
+            "pause": 4,
+            "rangeAngle": 0,
+            "rangeDamage": 150,
+            "speedRotate": 50,
+            "speedFly": 610,
+            "offsetXBody": -64,
+            "offsetYBody": -17,
+            "offsetX": -5,
+            "offsetY": -90
+        },
+        {
+            "parentName": "buzzard_car",
+            "name": "buzzard_saw1",
+            "hp": 15,
+            "damage": 35,
+            "cooldown": 0.3,
+            "clipSize": 4,
+            "pause": 5,
+            "rangeAngle": 0.5,
+            "rangeDamage": 0,
+            "speedRotate": 50,
+            "speedFly": 600,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -2,
+            "offsetY": -20
+        },
+        {
+            "parentName": "RPGCar_go",
+            "name": "RPGCar_rpg_rocket",
+            "hp": 6,
+            "damage": 120,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 2,
+            "pauseAnim": 3,
+            "pause": 3,
+            "rangeAngle": 0,
+            "rangeDamage": 150,
+            "speedRotate": 50,
+            "speedFly": 450,
+            "offsetXBody": -75,
+            "offsetYBody": -48,
+            "offsetX": 0,
+            "offsetY": -10
+        },
+        {
+            "parentName": "buggy",
+            "name": "rocket2",
+            "hp": 20,
+            "damage": 100,
+            "cooldown": 0.1,
+            "clipSize": 4,
+            "pause": 4,
+            "rangeAngle": 5,
+            "rangeDamage": 150,
+            "speedRotate": 50,
+            "speedFly": 450,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -5,
+            "offsetY": -70
+        },
+        {
+            "parentName": "MGCar_go",
+            "name": "bullet",
+            "damage": 17,
+            "cooldown": 0.1,
+            "clipSize": 7,
+            "firstPause": 3,
+            "pause": 4,
+            "rangeAngle": 1,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1410,
+            "offsetXBody": -41,
+            "offsetYBody": -65,
+            "offsetX": -15,
+            "offsetY": 0
+        },
+        {
+            "parentName": "quadrocopter",
+            "name": "rocket2",
+            "hp": 9,
+            "damage": 80,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 1,
+            "pause": 4,
+            "rangeAngle": 0,
+            "rangeDamage": 200,
+            "speedRotate": 50,
+            "speedFly": 450,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 5,
+            "offsetY": 15
+        },
+        {
+            "parentName": "jetpack_gunner",
+            "name": "bullet",
+            "damage": 5,
+            "cooldown": 0.075,
+            "clipSize": 5,
+            "firstPause": 2,
+            "pause": 3,
+            "rangeAngle": 1,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 800,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -24,
+            "offsetY": 5
+        },
+        {
+            "parentName": "helix_body",
+            "name": "bullet",
+            "damage": 7,
+            "cooldown": 0.1,
+            "clipSize": 25,
+            "pauseAnim": 9.49,
+            "pause": 9.5,
+            "firstPause": 4,
+            "startMagnitude": 50,
+            "rangeAngle": 1,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1410,
+            "offsetXBody": -51,
+            "offsetYBody": 77,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "helix_body",
+            "name": "rocket2",
+            "damage": 100,
+            "hp": 10,
+            "cooldown": 1,
+            "clipSize": 4,
+            "pause": 8,
+            "firstPause": 1,
+            "rangeAngle": 1,
+            "rangeDamage": 200,
+            "speedRotate": 50,
+            "speedFly": 400,
+            "offsetXBody": -92,
+            "offsetYBody": 32,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "helix_body",
+            "name": "rocket2",
+            "damage": 100,
+            "hp": 10,
+            "cooldown": 1,
+            "clipSize": 4,
+            "pause": 8,
+            "firstPause": 1.5,
+            "rangeAngle": 1,
+            "rangeDamage": 200,
+            "speedRotate": 50,
+            "speedFly": 400,
+            "offsetXBody": -19.5,
+            "offsetYBody": 71,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "AACar_go",
+            "name": "ar_ray",
+            "damage": 0.15,
+            "cooldown": 0.035,
+            "clipSize": 20,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 2000,
+            "speedFly": 1410,
+            "offsetXBody": -50,
+            "firstPause": 4,
+            "offsetYBody": -45,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "FlameCar_go",
+            "name": "flame_shot",
+            "damage": 10,
+            "cooldown": 0.075,
+            "clipSize": 50,
+            "firstPause": 5,
+            "pause": 3,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1400,
+            "offsetXBody": -43,
+            "offsetYBody": -53,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "EMPCar",
+            "name": "emp_bullet_anim",
+            "damage": 70,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 0,
+            "pause": 6,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 0,
+            "speedFly": 300,
+            "offsetXBody": -38.25,
+            "offsetYBody": -46.25,
+            "offsetX": -2,
+            "offsetY": 0
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "emp_bullet_anim",
+            "damage": 50,
+            "hp": 10,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 10,
+            "pause": 17,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 250,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -100,
+            "offsetY": -5
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "coldsteel_chariot_missile",
+            "hp": 500,
+            "damage": 400,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 12,
+            "pauseAnim": 1.05,
+            "pause": 23,
+            "rangeAngle": 0,
+            "rangeDamage": 250,
+            "speedRotate": 0,
+            "speedFly": 100,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -500,
+            "offsetY": -500
+        },
+        {
+            "parentName": "bomber",
+            "name": "bomber_bomb",
+            "hp": 80,
+            "damage": 200,
+            "cooldown": 1.2,
+            "clipSize": 6,
+            "firstPause": 4,
+            "pauseAnim": 7.8667,
+            "pause": 10,
+            "rangeAngle": 0,
+            "rangeDamage": 200,
+            "speedRotate": 0,
+            "speedFly": 1,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -46,
+            "offsetY": 30
+        },
+        {
+            "parentName": "bike3_go",
+            "name": "bullet",
+            "damage": 9,
+            "cooldown": 0.075,
+            "clipSize": 6,
+            "pauseAnim": 2.7834,
+            "pause": 2.7834,
+            "firstPause": 2.7834,
+            "rangeAngle": 5,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -38,
+            "offsetY": -50
+        },
+        {
+            "parentName": "wardrone",
+            "name": "rocket2",
+            "hp": 10,
+            "damage": 80,
+            "cooldown": 0.5,
+            "clipSize": 5,
+            "firstPause": 4,
+            "pause": 3,
+            "rangeAngle": 1,
+            "rangeDamage": 200,
+            "speedRotate": 50,
+            "speedFly": 450,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 5,
+            "offsetY": 15
+        },
+        {
+            "parentName": "gyrocopter",
+            "name": "bullet",
+            "damage": 5,
+            "cooldown": 0.037,
+            "clipSize": 10,
+            "firstPause": 3,
+            "pause": 4,
+            "rangeAngle": 3,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -47,
+            "offsetY": 38
+        },
+        {
+            "parentName": "buzzard_car_destroy",
+            "name": "boss_saw",
+            "damage": 300,
+            "cooldown": 0.075,
+            "clipSize": 1,
+            "pause": 0,
+            "rangeAngle": 0,
+            "rangeDamage": 250,
+            "speedRotate": 0,
+            "speedFly": 0,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "juggernaut",
+            "name": "boss_saw",
+            "damage": 5,
+            "cooldown": 0.075,
+            "clipSize": 1,
+            "pause": 0,
+            "firstPause": 5,
+            "rangeAngle": 0,
+            "rangeDamage": 60,
+            "speedRotate": 0,
+            "speedFly": 0,
+            "offsetXBody": -135,
+            "offsetYBody": -120,
+            "offsetX": -149,
+            "offsetY": -43
+        },
+        {
+            "parentName": "harpooner",
+            "name": "harpooner_bullet",
+            "damage": 100,
+            "cooldown": 7,
+            "clipSize": 1,
+            "pause": 0,
+            "firstPause": 5,
+            "rangeAngle": 0,
+            "rangeDamage": 0,
+            "speedRotate": 0,
+            "speedFly": 1200,
+            "offsetXBody": -80,
+            "offsetYBody": -80,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "disarmer",
+            "name": "disarmer_bullet",
+            "damage": 100,
+            "cooldown": 0,
+            "clipSize": 1,
+            "pause": 5,
+            "firstPause": 3,
+            "rangeAngle": 0,
+            "rangeDamage": 0,
+            "speedRotate": 0,
+            "speedFly": 850,
+            "offsetXBody": -40,
+            "offsetYBody": -75,
+            "offsetX": -10,
+            "offsetY": -10
+        },
+        {
+            "parentName": "glider_fly",
+            "name": "glider_fly",
+            "damage": 500,
+            "cooldown": 0,
+            "clipSize": 1,
+            "pause": 0.5,
+            "firstPause": 8,
+            "rangeAngle": 0,
+            "rangeDamage": 150,
+            "speedRotate": 50,
+            "speedFly": 50,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "bigfoot",
+            "name": "barrel",
+            "damage": 300,
+            "cooldown": 0,
+            "clipSize": 1,
+            "pause": 4,
+            "hp": 1,
+            "firstPause": 5,
+            "rangeAngle": 0,
+            "rangeDamage": 200,
+            "speedRotate": 0,
+            "speedFly": 300,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -149,
+            "offsetY": -143
+        },
+        {
+            "parentName": "gyrocopter",
+            "name": "bullet",
+            "damage": 5,
+            "cooldown": 0.037,
+            "clipSize": 10,
+            "firstPause": 3.5,
+            "pause": 4,
+            "rangeAngle": 3,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": -26,
+            "offsetY": 43
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "coldsteel_chariot_rocket",
+            "hp": 30,
+            "damage": 120,
+            "cooldown": 1,
+            "clipSize": 4,
+            "firstPause": 3,
+            "pause": 7,
+            "rangeAngle": 1,
+            "rangeDamage": 200,
+            "speedRotate": 50,
+            "speedFly": 300,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "enemy_coldsteel_soldier3",
+            "hp": 250,
+            "damage": 250,
+            "cooldown": 0,
+            "clipSize": 1,
+            "firstPause": 1,
+            "pause": 11,
+            "rangeAngle": 0,
+            "rangeDamage": 200,
+            "speedRotate": 50,
+            "speedFly": 400,
+            "offsetXBody": -182,
+            "offsetYBody": -115,
+            "offsetX": 10,
+            "offsetY": -30
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "disarmer_bullet",
+            "damage": 100,
+            "cooldown": 0,
+            "startMagnitude": 100,
+            "clipSize": 1,
+            "pause": 5,
+            "firstPause": 7,
+            "rangeAngle": 0,
+            "rangeDamage": 0,
+            "speedRotate": 0,
+            "speedFly": 800,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "bullet",
+            "damage": 20,
+            "cooldown": 0.3,
+            "clipSize": 20,
+            "firstPause": 10,
+            "pause": 11,
+            "startMagnitude": 100,
+            "rangeAngle": 2,
+            "rangeDamage": -1,
+            "speedRotate": 50,
+            "speedFly": 1410,
+            "offsetXBody": 0,
+            "offsetYBody": 0,
+            "offsetX": 0,
+            "offsetY": 0
+        },
+        {
+            "parentName": "coldsteel_chariot",
+            "name": "coldsteel_chariot_laser_eye_marker",
+            "damage": 2500,
+            "cooldown": 0.035,
+            "clipSize": 1,
+            "pause": 100,
+            "rangeAngle": 0,
+            "rangeDamage": -1,
+            "speedRotate": 2000,
+            "speedFly": 1500,
+            "firstPause": -95,
+            "offsetXBody": 99,
+            "offsetYBody": -152,
+            "offsetX": -90,
+            "offsetY": 152,
+            "startMagnitude": 1
+        }
+    ],
+    "enemies": [
+        {
+            "name": "bike1_go",
+            "type": "MGBiker",
+            "hp": 100,
+            "change_direction_time": 2,
+            "targetPrice": [
+                7
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "bike2_go",
+            "type": "GrenadeBiker",
+            "hp": 950,
+            "change_direction_time": 10,
+            "targetPrice": [
+                60
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "buzzard_car",
+            "type": "SawCatapult",
+            "hp": 1500,
+            "change_direction_time": 15,
+            "targetPrice": [
+                125
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "RPGCar_go",
+            "type": "RPGCar",
+            "hp": 600,
+            "change_direction_time": 15,
+            "targetPrice": [
+                20
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "buggy",
+            "type": "Buggy",
+            "hp": 1500,
+            "change_direction_time": 5,
+            "targetPrice": [
+                100
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "MGCar_go",
+            "type": "MGCar",
+            "hp": 850,
+            "change_direction_time": 15,
+            "targetPrice": [
+                30
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "quadrocopter",
+            "type": "Quadrocopter",
+            "hp": 70,
+            "change_direction_time": 5,
+            "targetPrice": [
+                10
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "jetpack_gunner",
+            "type": "Jetpack",
+            "hp": 40,
+            "change_direction_time": 2,
+            "targetPrice": [
+                5
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "helix_body",
+            "type": "Helicopter",
+            "hp": 7000,
+            "change_direction_time": 15,
+            "targetPrice": [
+                300
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "tank_truck",
+            "type": "Tank",
+            "hp": 3500,
+            "change_direction_time": 15,
+            "targetPrice": [
+                200
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "AACar_go",
+            "type": "AACar",
+            "hp": 1750,
+            "change_direction_time": 7,
+            "targetPrice": [
+                140
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "zil_go",
+            "type": "BikersTruck",
+            "hp": 10000,
+            "change_direction_time": 15,
+            "targetPrice": [
+                600
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "bus",
+            "type": "FlyingBus",
+            "hp": 2800,
+            "change_direction_time": 10,
+            "targetPrice": [
+                250
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "EMPCar",
+            "type": "EMPCar",
+            "hp": 2300,
+            "change_direction_time": 15,
+            "targetPrice": [
+                150
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "juggernaut",
+            "type": "Boss100",
+            "hp": 25000,
+            "change_direction_time": 5,
+            "targetPrice": [
+                1500
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "bomber",
+            "type": "Bomber",
+            "hp": 5000,
+            "change_direction_time": 10,
+            "targetPrice": [
+                1200
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "doof_wagon",
+            "type": "Healer",
+            "hp": 8000,
+            "change_direction_time": 20,
+            "targetPrice": [
+                1700
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "bike3_go",
+            "type": "MGBikerUp",
+            "hp": 600,
+            "change_direction_time": 2,
+            "targetPrice": [
+                70
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "wardrone",
+            "type": "QuadrocopterUp",
+            "hp": 850,
+            "change_direction_time": 5,
+            "targetPrice": [
+                300
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "gyrocopter",
+            "type": "JetpackUp",
+            "hp": 650,
+            "change_direction_time": 5,
+            "targetPrice": [
+                50
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "FlameCar_go",
+            "type": "FlameCar",
+            "hp": 4000,
+            "change_direction_time": 0,
+            "targetPrice": [
+                1500
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "bigfoot",
+            "type": "Boss200",
+            "hp": 50000,
+            "change_direction_time": 10,
+            "targetPrice": [
+                1500
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "coldsteel_chariot",
+            "type": "Boss300",
+            "hp": 50000,
+            "change_direction_time": 15,
+            "targetPrice": [
+                5000
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "harpooner",
+            "type": "Harpooner",
+            "hp": 10000,
+            "change_direction_time": 15,
+            "targetPrice": [
+                900
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "disarmer",
+            "type": "Disarmer",
+            "hp": 7500,
+            "change_direction_time": 15,
+            "targetPrice": [
+                1750
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "glider_fly",
+            "type": "Glider",
+            "hp": 450,
+            "change_direction_time": 15,
+            "targetPrice": [
+                25
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "car1",
+            "type": "Car1",
+            "hp": 1200,
+            "change_direction_time": 15,
+            "targetPrice": [
+                500
+            ],
+            "offsetXBody": -14,
+            "offsetYBody": -48
+        },
+        {
+            "name": "car2",
+            "type": "Car2",
+            "hp": 900,
+            "change_direction_time": 15,
+            "targetPrice": [
+                200
+            ],
+            "offsetXBody": -21,
+            "offsetYBody": -81
+        },
+        {
+            "name": "car3",
+            "type": "Car3",
+            "hp": 5000,
+            "change_direction_time": 5,
+            "targetPrice": [
+                1000
+            ],
+            "offsetXBody": -29,
+            "offsetYBody": -89
+        },
+        {
+            "name": "car4",
+            "type": "Car4",
+            "hp": 650,
+            "change_direction_time": 15,
+            "targetPrice": [
+                100
+            ],
+            "offsetXBody": 13,
+            "offsetYBody": -95
+        },
+        {
+            "name": "car5",
+            "type": "Car5",
+            "hp": 800,
+            "change_direction_time": 15,
+            "targetPrice": [
+                300
+            ],
+            "offsetXBody": 17,
+            "offsetYBody": -110
+        },
+        {
+            "name": "tank",
+            "type": "TankPart2",
+            "hp": 4500,
+            "change_direction_time": 15,
+            "targetPrice": [
+                70
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "zil_go_up",
+            "type": "BikersTruckUp",
+            "hp": 12000,
+            "change_direction_time": 15,
+            "targetPrice": [
+                2200
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        },
+        {
+            "name": "bus_up",
+            "type": "FlyingBusUp",
+            "hp": 7500,
+            "change_direction_time": 5,
+            "targetPrice": [
+                800
+            ],
+            "offsetXBody": 0,
+            "offsetYBody": 0
+        }
+    ]
+}
