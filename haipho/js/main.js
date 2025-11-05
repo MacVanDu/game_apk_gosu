@@ -27,18 +27,17 @@ window.onload = () => {
   `;
 
   startScreen.innerHTML = `
-    <h1 style="font-size: 48px; margin-bottom: 20px;">🐕 BẮT TRỘM CÙNG CHÓ GIỮ NHÀ 🦴</h1>
-    <p style="font-size: 20px; line-height: 1.6; max-width: 600px;">
+    <h1 style="font-size: 24px; margin-bottom: 20px;">🐕 BẮT TRỘM CÙNG CHÓ GIỮ NHÀ 🦴</h1>
+    <p style="font-size: 10px; line-height: 1.6; max-width: 600px;">
       <strong>Hướng dẫn chơi:</strong><br>
       🐾 Nhấn chuột để đặt bẫy vào vị trí bạn muốn.<br>
       🧠 Mỗi lần trộm bị bẫy, bạn được +10 điểm.<br>
-      🚫 Nếu trộm thoát khỏi màn hình, bạn sẽ mất 1 mạng.<br>
       💥 Khi đạt 120 điểm, bạn sẽ chiến thắng!
     </p>
     <button id="btnStart" style="
       margin-top: 40px;
       padding: 15px 35px;
-      font-size: 26px;
+      font-size: 13px;
       border: none;
       border-radius: 12px;
       background: #ff9800;

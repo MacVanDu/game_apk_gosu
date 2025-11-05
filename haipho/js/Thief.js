@@ -8,7 +8,7 @@ export default class Thief {
     this.h = 131;
 
     // 🏃‍♂️ Tốc độ hợp lý (ảnh to hơn => đi chậm hơn)
-    this.speed = 2.3 + Math.random() * 1.2; // dao động 2.3–3.5
+    this.speed = 1.3 + Math.random() * 0.6; // dao động 2.3–3.5
     this.dy = Math.random() > 0.5 ? 1 : -1;
 
     // 🖼️ Ảnh trộm
